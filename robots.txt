@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hnhsalesconsulting.com/sitemap.xml
