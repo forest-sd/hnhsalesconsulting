@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://hnhsalesconsulting.com/sitemap.xml
+
+Sitemap: https://hnhsalesconsulting.pages.dev/sitemap.xml
